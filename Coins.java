@@ -4,7 +4,7 @@ class Coins {
          int quarter = 25;
          int mod = x%quarter;
          int div = x/quarter;
-        System.out.println("Use " + div + " Quarter " + " and " + mod + " Cents ");
+        System.out.println("Use " + div + " quarters " + " and " + mod + " cents ");
     }
 
     }
